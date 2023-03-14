@@ -3,7 +3,6 @@ body{
   background-color: gray;
   font-family: 'Oxygen', sans-serif;
 }
-
 /** HEADER **/
 #header-nav {
   background-color:darkcyan;
@@ -41,7 +40,7 @@ li{
 .navbar-header button.navbar-toggle{
   margin-right: 25px;
   border: 1px solid black;
-  background-color: gray; 
+  background-color: darkcyan; 
 }
 .navbar-header .icon-bar{
   border: 2px solid black;
@@ -54,6 +53,8 @@ li{
 #nav-list a{
   color: black;
 }
+/** END HEADER **/
+/** MAIN CONTENT **/
 #menu{
   color:white;
   font-size: 32px;
@@ -63,7 +64,6 @@ section {
   margin: 10px;
   color: black;
   border: 1px solid white;
-  height: auto;
   background-color:coral;
   padding-left: 10px;
   padding-right: 10px;
@@ -72,3 +72,4 @@ h2{
   font-size: 25px;
   font-weight: bold;
 }
+/** END MAIN CONTENT **/
