@@ -1,6 +1,6 @@
 HTML, CSS, and Javascript for Web Developers (Coursera) - Coding Projects:
 
-**Coursera course through John Hopkins University**
+This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
 
 <a href=/module2_solution>Module 2 Coding Project</a>: HTML/CSS Basics, Box Model/Layout, Responsive Design
