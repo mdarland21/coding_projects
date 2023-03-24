@@ -8,3 +8,5 @@ This repository contains all of the source code used in the course called HTML, 
 <a href=/module3_solution>Module 3 Coding Project</a>: Static Web Page, Bootstrap
 
 <a href=/module4_solution>Module 4 Coding Project</a>: Javascript Basics
+
+<a href=/module5_solution>Module 5 Coding Project</a>: Javascript Functionality
